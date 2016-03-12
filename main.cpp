@@ -1,9 +1,4 @@
-/*
- * main.cpp
- *
- *  Created on: Mar 12, 2016
- *      Author: root
- */
+//First Fit Algorithm Graph Colouring
 #include <iostream>
 
 #include "Graph.h"
